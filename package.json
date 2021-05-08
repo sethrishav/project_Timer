@@ -1,6 +1,6 @@
 {
     "homepage": "https://sethrishav.github.io/project_timer",
-    "name": "timer",
+    "name": "project_timer",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
