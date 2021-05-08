@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/project_Timer/static/css/main.80940809.chunk.css",
+    "main.js": "/project_Timer/static/js/main.cb1466b3.chunk.js",
+    "main.js.map": "/project_Timer/static/js/main.cb1466b3.chunk.js.map",
+    "runtime-main.js": "/project_Timer/static/js/runtime-main.27b0955f.js",
+    "runtime-main.js.map": "/project_Timer/static/js/runtime-main.27b0955f.js.map",
+    "static/js/2.591a7393.chunk.js": "/project_Timer/static/js/2.591a7393.chunk.js",
+    "static/js/2.591a7393.chunk.js.map": "/project_Timer/static/js/2.591a7393.chunk.js.map",
+    "static/js/3.0ba8dc34.chunk.js": "/project_Timer/static/js/3.0ba8dc34.chunk.js",
+    "static/js/3.0ba8dc34.chunk.js.map": "/project_Timer/static/js/3.0ba8dc34.chunk.js.map",
+    "index.html": "/project_Timer/index.html",
+    "static/css/main.80940809.chunk.css.map": "/project_Timer/static/css/main.80940809.chunk.css.map",
+    "static/js/2.591a7393.chunk.js.LICENSE.txt": "/project_Timer/static/js/2.591a7393.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/project_Timer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27b0955f.js",
+    "static/js/2.591a7393.chunk.js",
+    "static/css/main.80940809.chunk.css",
+    "static/js/main.cb1466b3.chunk.js"
+  ]
+}
